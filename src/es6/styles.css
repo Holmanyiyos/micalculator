@@ -9,7 +9,7 @@ body{
 .container{
     height: 300px;
     width: 600px;
-    background-color: lightskyblue;
+    background-color: rgb(42, 143, 206);
     display: flex;
     flex-wrap: wrap;
     position: relative;
